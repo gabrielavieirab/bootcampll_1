@@ -1,6 +1,5 @@
 # Checklist de Autocuidado e Hidratação
 
-![CI](https://github.com/SEU_USUARIO/checklist-autocuidado/actions/workflows/ci.yml/badge.svg)
 ![Versão](https://img.shields.io/badge/versão-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
@@ -79,9 +78,6 @@ python -m venv .venv
 
 # Windows
 .venv\Scripts\activate
-
-# Linux / macOS
-source .venv/bin/activate
 ```
 
 **3. Instale as dependências de desenvolvimento:**
@@ -122,9 +118,8 @@ Se não houver problemas, nenhuma saída será exibida. Caso existam, o ruff ind
 
 ## Autor
 
-**[Seu Nome Completo]**
+**Gabriela Vieira Baptista**
 Bootcamp II — Turma B — 2026/1
 
 ## Repositório Público
-
-[https://github.com/SEU_USUARIO/checklist-autocuidado](https://github.com/SEU_USUARIO/checklist-autocuidado)
+https://github.com/gabrielavieirab/bootcampll_1.git 
