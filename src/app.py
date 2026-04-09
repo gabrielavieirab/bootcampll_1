@@ -1,7 +1,6 @@
 """
 Checklist de Autocuidado e Hidratação
 Versão: 1.0.0
-Autor: Aluno
 """
 
 import json
