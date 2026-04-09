@@ -6,19 +6,19 @@
 
 ---
 
-## Descrição do Problema Real
+## DESCRIÇÃO DO PROBLEMA REAL
 
 Muitas pessoas, especialmente estudantes e trabalhadores com rotinas intensas, negligenciam hábitos básicos de autocuidado — como beber água regularmente, escovar os dentes, se alimentar em horários adequados e dormir o suficiente. Essa negligência, muitas vezes invisível no dia a dia, acumula consequências físicas e mentais ao longo do tempo. A ausência de uma ferramenta simples e acessível para lembrar e registrar esses hábitos contribui para que muitas pessoas não consigam manter uma rotina saudável.
 
-## Proposta da Solução
+## PROPOSTA DA SOLUÇÃO
 
 O **Checklist de Autocuidado e Hidratação** é uma aplicação desktop com interface gráfica (GUI) desenvolvida em Python com Tkinter. A aplicação apresenta uma lista organizada de hábitos diários divididos em três categorias — Hidratação, Autocuidado e Alimentação — permitindo que o usuário marque os itens concluídos ao longo do dia, acompanhe seu progresso por meio de uma barra visual e salve o estado para consulta posterior.
 
-## Público-Alvo
+## PÚBLICO-ALVO
 
 Estudantes, trabalhadores e qualquer pessoa que deseje criar e manter hábitos básicos de autocuidado de forma simples, sem necessidade de internet ou cadastro.
 
-## Funcionalidades Principais
+## FUNCIONALIDADES PRINCIPAIS
 
 A aplicação oferece as seguintes funcionalidades:
 
@@ -28,7 +28,7 @@ A aplicação oferece as seguintes funcionalidades:
 - Carregamento do estado salvo ao reabrir a aplicação.
 - Botão para reiniciar o checklist do dia.
 
-## Tecnologias Utilizadas
+## TECNOLOGIAS UTILIZADAS
 
 | Tecnologia | Finalidade |
 |---|---|
@@ -39,7 +39,7 @@ A aplicação oferece as seguintes funcionalidades:
 | ruff | Linting e análise estática |
 | GitHub Actions | Integração Contínua (CI) |
 
-## Estrutura do Projeto
+## ESTRUTURA DO PROJETO
 
 ```
 checklist-autocuidado/
@@ -60,7 +60,7 @@ checklist-autocuidado/
 └── requirements.txt
 ```
 
-## Instruções de Instalação
+## INSTRUÇÕES DE INSTALAÇÃO
 
 **Pré-requisito:** Python 3.10 ou superior instalado. O Tkinter já vem incluído na instalação padrão do Python.
 
@@ -104,7 +104,7 @@ pytest tests/ -v
 
 A saída exibirá cada teste com seu resultado (PASSED / FAILED).
 
-## Instruções para Rodar o Lint
+## INSTRUÇÕES PARA RODAR O LINT 
 
 ```bash
 ruff check src/ tests/
@@ -112,14 +112,14 @@ ruff check src/ tests/
 
 Se não houver problemas, nenhuma saída será exibida. Caso existam, o ruff indicará o arquivo, a linha e a descrição do problema.
 
-## Versão Atual
+## VERSÃO ATUAL
 
 **1.0.0** — consulte o [CHANGELOG.md](CHANGELOG.md) para o histórico de alterações.
 
-## Autor
+## AUTOR
 
 **Gabriela Vieira Baptista**
 Bootcamp II — Turma B — 2026/1
 
-## Repositório Público
+## REPOSITÓRIO PÚBLICO
 https://github.com/gabrielavieirab/bootcampll_1.git 
