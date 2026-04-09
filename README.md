@@ -86,7 +86,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-## Instruções de Execução
+## INSTRUÇÕES DE EXECUÇÃO
 
 Para iniciar a aplicação, execute o seguinte comando na raiz do projeto:
 
@@ -96,7 +96,7 @@ python src/app.py
 
 A janela da aplicação será aberta automaticamente. Marque os itens concluídos, acompanhe seu progresso e clique em **Salvar Progresso** para registrar o estado do dia.
 
-## Instruções para Rodar os Testes
+## INSTRUÇÕES PARA RODAR OS TESTES 
 
 ```bash
 pytest tests/ -v
